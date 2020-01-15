@@ -1,0 +1,11 @@
+F:\Algorithm\Algorithm\20200114\n_1002\n_1002\bin\Debug\netcoreapp3.0\n_1002.exe
+F:\Algorithm\Algorithm\20200114\n_1002\n_1002\bin\Debug\netcoreapp3.0\n_1002.deps.json
+F:\Algorithm\Algorithm\20200114\n_1002\n_1002\bin\Debug\netcoreapp3.0\n_1002.runtimeconfig.json
+F:\Algorithm\Algorithm\20200114\n_1002\n_1002\bin\Debug\netcoreapp3.0\n_1002.runtimeconfig.dev.json
+F:\Algorithm\Algorithm\20200114\n_1002\n_1002\bin\Debug\netcoreapp3.0\n_1002.dll
+F:\Algorithm\Algorithm\20200114\n_1002\n_1002\bin\Debug\netcoreapp3.0\n_1002.pdb
+F:\Algorithm\Algorithm\20200114\n_1002\n_1002\obj\Debug\netcoreapp3.0\n_1002.csprojAssemblyReference.cache
+F:\Algorithm\Algorithm\20200114\n_1002\n_1002\obj\Debug\netcoreapp3.0\n_1002.AssemblyInfoInputs.cache
+F:\Algorithm\Algorithm\20200114\n_1002\n_1002\obj\Debug\netcoreapp3.0\n_1002.AssemblyInfo.cs
+F:\Algorithm\Algorithm\20200114\n_1002\n_1002\obj\Debug\netcoreapp3.0\n_1002.dll
+F:\Algorithm\Algorithm\20200114\n_1002\n_1002\obj\Debug\netcoreapp3.0\n_1002.pdb
