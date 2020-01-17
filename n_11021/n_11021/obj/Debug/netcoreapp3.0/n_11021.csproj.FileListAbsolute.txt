@@ -1,0 +1,10 @@
+F:\BOJ_\n_11021\n_11021\bin\Debug\netcoreapp3.0\n_11021.exe
+F:\BOJ_\n_11021\n_11021\bin\Debug\netcoreapp3.0\n_11021.deps.json
+F:\BOJ_\n_11021\n_11021\bin\Debug\netcoreapp3.0\n_11021.runtimeconfig.json
+F:\BOJ_\n_11021\n_11021\bin\Debug\netcoreapp3.0\n_11021.runtimeconfig.dev.json
+F:\BOJ_\n_11021\n_11021\bin\Debug\netcoreapp3.0\n_11021.dll
+F:\BOJ_\n_11021\n_11021\bin\Debug\netcoreapp3.0\n_11021.pdb
+F:\BOJ_\n_11021\n_11021\obj\Debug\netcoreapp3.0\n_11021.AssemblyInfoInputs.cache
+F:\BOJ_\n_11021\n_11021\obj\Debug\netcoreapp3.0\n_11021.AssemblyInfo.cs
+F:\BOJ_\n_11021\n_11021\obj\Debug\netcoreapp3.0\n_11021.dll
+F:\BOJ_\n_11021\n_11021\obj\Debug\netcoreapp3.0\n_11021.pdb
