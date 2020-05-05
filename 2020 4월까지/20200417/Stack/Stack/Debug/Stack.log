@@ -1,0 +1,3 @@
+﻿  Stack.cpp
+C:\Users\audtk\Desktop\Code\20200417\Stack\Stack\Stack.cpp(40,1): error C2084: 'int main(void)' 함수에 이미 본문이 있습니다.
+C:\Users\audtk\Desktop\Code\20200417\Stack\Stack\Stack.cpp(35): message : 'main'의 이전 정의를 참조하십시오.
