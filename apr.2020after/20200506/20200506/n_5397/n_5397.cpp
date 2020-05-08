@@ -13,47 +13,41 @@ int main()
     int loop = 0;
     cin >> loop;
     cin.ignore();
-    while (loop--)
+    for(int i=0; i < loop; ++i)
     {
         string s;
         getline(cin, s);
-        
-        list<char> oper;
-        for (auto c : s)
-        {
-            oper.push_back(c);
-        }
 
         list<char> ans;
         list<char>::iterator cursor = ans.begin();
 
-        while (oper.size() > 0)
+        int length = s.size();
+
+        for (int i = 0; i < length; ++i)
         {
-            char c = oper.front();
-            oper.pop_front();
+            char c = s[i];
             if (c == '<')
             {
                 if (cursor != ans.begin()) --cursor;
             }
-            else if(c == '>')
+            else if (c == '>')
             {
                 if (cursor != ans.end())   ++cursor;
-             
+
             }
             else if (c == '-')
             {
-                if(cursor != ans.begin()) --cursor;
-                cursor = ans.erase(cursor);
+                if (cursor != ans.begin()) ans.erase((--cursor)++);
             }
-            else 
+            else
             {
-                cursor = ans.insert(cursor, c);
-                if(cursor != ans.end()) ++cursor;
+                ans.insert(cursor, c);
             }
         }
-        for (auto c : ans)
+        
+        for (list<char>::iterator iter = ans.begin(); iter != ans.end(); ++iter)
         {
-            cout << c;
+            cout << *iter;
         }
         cout << "\n";
     }
