@@ -1,0 +1,13 @@
+D:\BOJ_\apr.2020after\20200522\ConsoleApp1\ConsoleApp2\bin\Debug\netcoreapp3.1\ConsoleApp2.exe
+D:\BOJ_\apr.2020after\20200522\ConsoleApp1\ConsoleApp2\bin\Debug\netcoreapp3.1\ConsoleApp2.deps.json
+D:\BOJ_\apr.2020after\20200522\ConsoleApp1\ConsoleApp2\bin\Debug\netcoreapp3.1\ConsoleApp2.runtimeconfig.json
+D:\BOJ_\apr.2020after\20200522\ConsoleApp1\ConsoleApp2\bin\Debug\netcoreapp3.1\ConsoleApp2.runtimeconfig.dev.json
+D:\BOJ_\apr.2020after\20200522\ConsoleApp1\ConsoleApp2\bin\Debug\netcoreapp3.1\ConsoleApp2.dll
+D:\BOJ_\apr.2020after\20200522\ConsoleApp1\ConsoleApp2\bin\Debug\netcoreapp3.1\ConsoleApp2.pdb
+D:\BOJ_\apr.2020after\20200522\ConsoleApp1\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.csprojAssemblyReference.cache
+D:\BOJ_\apr.2020after\20200522\ConsoleApp1\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.csproj.CoreCompileInputs.cache
+D:\BOJ_\apr.2020after\20200522\ConsoleApp1\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.AssemblyInfoInputs.cache
+D:\BOJ_\apr.2020after\20200522\ConsoleApp1\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.AssemblyInfo.cs
+D:\BOJ_\apr.2020after\20200522\ConsoleApp1\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.dll
+D:\BOJ_\apr.2020after\20200522\ConsoleApp1\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.pdb
+D:\BOJ_\apr.2020after\20200522\ConsoleApp1\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.genruntimeconfig.cache
